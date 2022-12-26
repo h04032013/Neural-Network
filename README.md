@@ -1,3 +1,4 @@
 # Neural-Network
-Neural Network from scratch for my AI class!
-Tested on MNIST data without tensorflow or keras :)
+Creating a Neural Network class to test on MNIST data!
+
+I attached the .py and .ipynb files which both contain the same code :)
