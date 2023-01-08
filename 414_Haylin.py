@@ -31,7 +31,7 @@ class network:
       return A
 
   #Forward propagation
-#RUBRIC - 3.`predict`: Calculates the output values for a list of input data.
+#`predict`: Calculates the output values for a list of input data.
   def feed_forward(W1, b1, W2, b2, X):
       #Calculating output using input, weights & biases
       Z1 = W1.dot(X) + b1
